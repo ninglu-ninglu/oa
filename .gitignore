@@ -1,0 +1,6 @@
+# 项目排除路径
+/common/common-uitl/target/
+/common/service-uitl/target/
+/common/spring-security/target/
+/model/target/
+/service-oa/target/
